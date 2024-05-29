@@ -15,3 +15,9 @@ Directions for Adding Tailwind
 ```
 tailwindcss.com/docs/guides/vite
 ```
+
+Documentation for the location search API
+
+```
+nominatim.org/release-docs/develop/api/Search/
+```
