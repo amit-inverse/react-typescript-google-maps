@@ -21,3 +21,9 @@ Documentation for the location search API
 ```
 nominatim.org/release-docs/develop/api/Search/
 ```
+
+Map related libraries
+
+```
+npm install @types/leaflet leaflet react-leaflet
+```
